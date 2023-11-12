@@ -10,6 +10,8 @@
 ![.NET](https://img.shields.io/badge/-.NET-purple?style=for-the-badge&logo=.NET&logoColor=white)
 ![C#](https://img.shields.io/badge/-C_Sharp-white?style=for-the-badge&logo=CSharp&logoColor=purple)
 ![html](https://img.shields.io/badge/-Html-E34F26?style=for-the-badge&logo=HTML&logoColor=#E34F26)
+![JS](https://img.shields.io/badge/-JS-E34F26?style=for-the-badge&logo=JS&logoColor=#E34F26)
+![TS](https://img.shields.io/badge/-TS-blue?style=for-the-badge&logo=TS&logoColor=purple)
 
  [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/lans.nyhao)[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/LaNs0_0)
   <h1>
