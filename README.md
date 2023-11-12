@@ -11,7 +11,7 @@
 ![C#](https://img.shields.io/badge/-C_Sharp-white?style=for-the-badge&logo=CSharp&logoColor=purple)
 ![html](https://img.shields.io/badge/-Html-E34F26?style=for-the-badge&logo=HTML&logoColor=#E34F26)
 
- ![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nikolaev2710)
+ [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/lans.nyhao)[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/LaNs0_0)
   <h1>
   Hi there 🌱
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
