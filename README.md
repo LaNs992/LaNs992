@@ -31,7 +31,7 @@
 
 # My Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaNs992&theme=synthwave)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LaNs992)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaNs992&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaNs992&theme=synthwave)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LaNs992)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaNs992&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
