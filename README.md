@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="300"/>
   <div id="badges" style="text-align: center;">
+
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -21,6 +23,12 @@
 </h1>
 </div>
 </div>
+    
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
@@ -29,8 +37,6 @@
 # My Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaNs992&theme=synthwave)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LaNs992)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaNs992&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Stats](gitartwork.svg)
 
 
 
